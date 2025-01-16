@@ -1,5 +1,7 @@
 # ALGEMENE VOORWAARDEN – ALTERLAN
 
+Laatst bij gewerkt op donderdag 16 januari 2025
+
 _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290), hierna te noemen de “Organisator”, tijdens het evenement ALTERLAN, gehouden in De Loods te Mechelen. De algemene voorwaarden van ALTERNATE België BV blijven onverminderd van toepassing. Onderhavige specifieke voorwaarden zijn aanvullend van kracht voor alle deelnemers en bezoekers. Door deelname aan of bezoek van ALTERLAN aanvaardt men uitdrukkelijk deze voorwaarden._
 
 **Bedrijfsgegevens:**
@@ -99,7 +101,7 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
        Persoonsgegevens worden verwerkt in overeenstemming met de privacyverklaring van ALTERNATE België BV en de toepasselijke Belgische en Europese privacywetgeving (o.a. AVG/GDPR).
 
     3. #### Verzoeken en rechten
-       Deelnemers en Bezoekers hebben recht op inzage, correctie, beperking en verwijdering van hun persoonsgegevens. Verzoeken hiertoe kunnen worden ingediend via support@alterlan.be.
+       Deelnemers en Bezoekers hebben recht op inzage, correctie, beperking en verwijdering van hun persoonsgegevens. Verzoeken hiertoe kunnen worden ingediend via [support@alterlan.be](mailto:support@alterlan.be).
 
 
 8. ### Overige bepalingen
@@ -132,7 +134,7 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
 10. ### Refund policy
 
     1. #### Verzoek om terugbetaling
-       * Alle verzoeken tot terugbetaling (tickets, ALTCOINS of andere aankopen) dienen uitsluitend per e-mail te worden gericht aan support@alterlan.be.
+       * Alle verzoeken tot terugbetaling (tickets, ALTCOINS of andere aankopen) dienen uitsluitend per e-mail te worden gericht aan [support@alterlan.be](mailto:support@alterlan.be).
        * Het verzoek moet afkomstig zijn van het e-mailadres waarmee de oorspronkelijke aankoop is verricht.
        * Vermeld in het verzoek duidelijk het ordernummer, zoals vermeld in de bevestigingsmail.
 
@@ -150,7 +152,7 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
 
 11. ### Algemene voorwaarden moederorganisatie
 
-    De algemene voorwaarden van ALTERNATE België BV zijn van toepassing op alle transacties en activiteiten. U kunt de volledige tekst van deze voorwaarden raadplegen via de volgende link: https://www.alternate.be/Info/ALTERNATE/Algemene-voorwaarden.
+    De algemene voorwaarden van ALTERNATE België BV zijn van toepassing op alle transacties en activiteiten. U kunt de volledige tekst van deze voorwaarden raadplegen via de volgende link: [https://www.alternate.be/Info/ALTERNATE/Algemene-voorwaarden](https://www.alternate.be/Info/ALTERNATE/Algemene-voorwaarden).
 
 12. ### Verantwoord gebruik van het netwerk
 
@@ -220,7 +222,7 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
        Door deelname aan of bezoek van het evenement verleent men de Organisator toestemming om foto- en videomateriaal te maken en te gebruiken voor publicitaire en promotionele doeleinden.
 
     3. #### Recht op inzage en correctie
-       Verzoeken tot inzage, wijziging of verwijdering van persoonsgegevens kunnen worden ingediend via support@alterlan.be. De Organisator streeft ernaar dergelijke verzoeken binnen de wettelijke termijnen te behandelen.
+       Verzoeken tot inzage, wijziging of verwijdering van persoonsgegevens kunnen worden ingediend via [support@alterlan.be](mailto:support@alterlan.be). De Organisator streeft ernaar dergelijke verzoeken binnen de wettelijke termijnen te behandelen.
 
 19. ### Sancties bij overtredingen
 
@@ -276,7 +278,7 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
        * Verlenging van de huurtermijn is uitsluitend mogelijk na voorafgaande en uitdrukkelijke toestemming van de Organisator.
 
 ### Vragen?
-Voor vragen over deze voorwaarden of het evenement kunt u contact opnemen via support@alterlan.be.
+Voor vragen over deze voorwaarden of het evenement kunt u contact opnemen via [support@alterlan.be](mailto:support@alterlan.be).
 
 ### Slotbepaling
 * Deze voorwaarden zijn opgesteld en worden beheerst door het Belgisch recht.
