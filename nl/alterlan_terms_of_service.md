@@ -120,7 +120,7 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
 9. ### ALTCOINS
 
     1. #### Concept ALTCOINS
-       ALTCOINS functioneren als het officiële betaalmiddel tijdens ALTERLAN, met een vaste waarde van €1,75 per ALTERCOIN.
+       ALTCOINS functioneren als het officiële betaalmiddel tijdens ALTERLAN, met een vaste waarde van €1,75 per ALTCOIN.
 
     2. #### Aankoop
        ALTCOINS kunnen uitsluitend via de Organisator worden aangeschaft, zowel voorafgaand aan het evenement als ter plaatse.
