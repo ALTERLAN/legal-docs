@@ -1,11 +1,11 @@
 # ALGEMENE VOORWAARDEN – ALTERLAN
 
-Laatst bij gewerkt op donderdag 16 januari 2025
+Laatst bijgewerkt op maandag 20 januari 2025
 
-_Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290), hierna te noemen de “Organisator”, tijdens het evenement ALTERLAN, gehouden in De Loods te Mechelen. De algemene voorwaarden van ALTERNATE België BV blijven onverminderd van toepassing. Onderhavige specifieke voorwaarden zijn aanvullend van kracht voor alle deelnemers en bezoekers. Door deelname aan of bezoek van ALTERLAN aanvaardt men uitdrukkelijk deze voorwaarden._
+_Deze voorwaarden zijn geldig voor het evenement ALTERLAN, gehouden in De Loods te Mechelen en georganiseerd door ALTERNATE België bv (BE0893031290), hierna te noemen de “Organisator”. De algemene voorwaarden van ALTERNATE België bv blijven onverminderd van toepassing. Onderhavige specifieke voorwaarden zijn aanvullend van kracht voor alle deelnemers en bezoekers van ALTERLAN. Door deelname aan of bezoek van ALTERLAN aanvaardt men uitdrukkelijk deze voorwaarden._
 
 **Bedrijfsgegevens:**
-- **ALTERNATE België BV**
+- **ALTERNATE België bv**
 - **BTW BE0893031290**
 - **Oeyvaersbosch 16-18**
 - **2630 Aartselaar**
@@ -14,7 +14,7 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
 
 1. ### Definities
 
-    1. **Organisator:** ALTERNATE België BV.
+    1. **Organisator:** ALTERNATE België bv.
     2. **Deelnemer:** Iedere natuurlijke persoon die zich op geldige wijze heeft geregistreerd voor het evenement.
     3. **Bezoeker:** Iedere natuurlijke persoon die aanwezig is op het evenement, zonder als Deelnemer te zijn geregistreerd.
     4. **Locatie:** De Loods te Mechelen, de fysieke locatie waar het evenement plaatsvindt.
@@ -24,21 +24,21 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
 
     1. #### Exclusieve toegang
        Uitsluitend geregistreerde Deelnemers verkrijgen toegang tot de LAN-ruimte.
-    
+
     2. #### Registratie en legitimatie
-       Deelnemers dienen bij aankomst hun geldig toegangsbewijs én een geldig identiteitsdocument te kunnen overleggen.
-    
+       Deelnemers dienen bij aankomst hun geldig toegangsbewijs en een geldig identiteitsdocument voor te kunnen leggen.
+
     3. #### Toegang voor Bezoekers
        Bezoekers mogen de LAN-ruimte enkel betreden op de door de Organisator vooraf bepaalde tijdstippen en uitsluitend met toestemming van de Organisator.
-    
+
     4. #### Leeftijdsgrens
-       De minimumleeftijd voor deelname bedraagt 16 jaar. Personen jonger dan 16 jaar dienen een schriftelijke en ondertekende toestemming van ouder(s) of voogd te overleggen.
-    
+       De minimumleeftijd voor deelname bedraagt 16 jaar. Personen jonger dan 16 jaar dienen een schriftelijke en ondertekende toestemming van ouder(s) of voogd voor te leggen.
+
     5. #### Badgegebruik
        * Deelnemers ontvangen bij aanvang van het evenement een persoonlijke badge.
        * Deze badge dient gedurende het gehele evenement zichtbaar te worden gedragen, zodat de Organisator en het personeel kunnen verifiëren of de betrokkene rechtmatig toegang heeft.
        * Het niet kunnen tonen van een geldige badge kan leiden tot weigering van de toegang of verwijdering van het evenement zonder recht op restitutie.
-    
+
 3. ### Gedragsregels
 
     1. #### Respect en eigendommen
@@ -50,17 +50,17 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
     3. #### Verbod op drugs en wapens
        Het bezit, gebruik of verhandelen van drugs en het meebrengen of in bezit hebben van wapens is ten strengste verboden op de Locatie.
 
-    4. #### Schade en aansprakelijkheid 
+    4. #### Schade en aansprakelijkheid
        * Schade veroorzaakt door Deelnemers of Bezoekers aan eigendommen van de Organisator of derden, wordt volledig verhaald op de verantwoordelijke persoon.
        * De Organisator is niet aansprakelijk voor enige indirecte of gevolgschade.
 
     5. #### Eigen apparatuur
-       Deelnemers mogen uitsluitend hun eigen apparatuur gebruiken, tenzij de Organisator schriftelijk anders bepaalt. Het gebruik van apparatuur is te allen tijde op eigen risico.
+       Deelnemers mogen uitsluitend hun eigen apparatuur of apparatuur die wordt gehuurd via de Organisator gebruiken, tenzij de Organisator schriftelijk anders bepaalt. Het gebruik van apparatuur is te allen tijde op eigen risico.
 
 4. ### Veiligheid en aansprakelijkheid
 
     1. #### Veilige omgeving
-       De Organisator streeft ernaar een veilige omgeving te scheppen, maar kan niet garanderen dat er geen incidenten plaatsvinden. De Organisator is niet aansprakelijk voor verlies, diefstal of schade aan persoonlijke eigendommen.
+       De Organisator streeft ernaar een veilige omgeving te voorzien, maar kan niet garanderen dat er geen incidenten plaatsvinden. De Organisator is niet aansprakelijk voor verlies, diefstal of schade aan persoonlijke eigendommen.
 
     2. #### Eigen verantwoordelijkheid
        Deelnemers zijn zelf verantwoordelijk voor hun gezondheid en welzijn gedurende het evenement. De Organisator kan niet aansprakelijk worden gehouden voor ziekten, ongevallen of medische kosten. Deelnemers wordt aangeraden passende (reis)verzekeringen af te sluiten.
@@ -92,17 +92,16 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
     2. #### Overmacht
        In geval van overmacht (zoals, maar niet beperkt tot, pandemieën, extreme weersomstandigheden of technische storingen) kan de Organisator niet aansprakelijk worden gesteld voor schade of kosten voortvloeiend uit annulering, wijziging of uitstel van het evenement.
 
-7. ### Privacy
+7. ### Privacy en gegevensbescherming
 
     1. #### Foto- en videomateriaal
-       Door de Locatie te betreden, stemt de Deelnemer en/of Bezoeker ermee in dat foto- en videomateriaal, waarop deze eventueel herkenbaar is, kan worden gebruikt door de Organisator voor promotionele doeleinden.
+       Door de Locatie te betreden, stemt de Deelnemer en/of Bezoeker ermee in dat foto- en videomateriaal, waarop deze eventueel herkenbaar is, kan worden gebruikt door de Organisator voor publicitaire en promotionele doeleinden.
 
     2. #### Verwerking persoonsgegevens
-       Persoonsgegevens worden verwerkt in overeenstemming met de privacyverklaring van ALTERNATE België BV en de toepasselijke Belgische en Europese privacywetgeving (o.a. AVG/GDPR).
+       Persoonsgegevens worden verwerkt in overeenstemming met de privacyverklaring van ALTERNATE België bv (te raadplegen via [https://www.alternate.be/Info/ALTERNATE/Privacy](https://www.alternate.be/Info/ALTERNATE/Privacy)) en de toepasselijke Belgische en Europese privacywetgeving (o.a. AVG/GDPR).
 
-    3. #### Verzoeken en rechten
-       Deelnemers en Bezoekers hebben recht op inzage, correctie, beperking en verwijdering van hun persoonsgegevens. Verzoeken hiertoe kunnen worden ingediend via [support@alterlan.be](mailto:support@alterlan.be).
-
+    3. #### Recht op inzage en correctie
+       Verzoeken tot inzage, wijziging of verwijdering van persoonsgegevens kunnen worden ingediend via [support@alterlan.be](mailto:support@alterlan.be). De Organisator streeft ernaar dergelijke verzoeken binnen de wettelijke termijnen te behandelen.
 
 8. ### Overige bepalingen
 
@@ -117,26 +116,27 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
        * Geschillen die voortvloeien uit of verband houden met deze voorwaarden of het evenement, zullen worden voorgelegd aan de bevoegde rechtbank in het gerechtelijk arrondissement Antwerpen.
 
 
-9. ### ALTCOINS
+9. ### ALTERCOINS
 
-    1. #### Concept ALTCOINS
-       ALTCOINS functioneren als het officiële betaalmiddel tijdens ALTERLAN, met een vaste waarde van €1,75 per ALTCOIN.
+    1. #### Concept ALTERCOINS
+       ALTERCOINS functioneren als het officiële betaalmiddel tijdens ALTERLAN, met een vaste waarde van €1,75 per ALTERCOIN.
 
     2. #### Aankoop
-       ALTCOINS kunnen uitsluitend via de Organisator worden aangeschaft, zowel voorafgaand aan het evenement als ter plaatse.
+       ALTERCOINS kunnen uitsluitend via de Organisator worden aangeschaft, zowel voorafgaand aan het evenement als ter plaatse.
 
     3. #### Gebruik
-       ALTCOINS zijn inwisselbaar voor consumpties, merchandise en andere aankopen binnen het evenement.
+       ALTERCOINS zijn inwisselbaar voor consumpties, merchandise en andere aankopen binnen het evenement.
 
     4. #### Restitutie
-       ALTCOINS zijn niet omzetbaar in contant geld, tenzij schriftelijk anders is bepaald. Terugbetaling van ongebruikte ALTCOINS is mogelijk volgens de refund policy in artikel 10, of indien door de Organisator specifiek aangekondigd.
+       ALTERCOINS zijn niet omzetbaar in contant geld, tenzij schriftelijk anders is bepaald. Terugbetaling van ongebruikte ALTERCOINS is mogelijk volgens de refund policy in artikel 10, of indien door de Organisator specifiek aangekondigd.
 
 10. ### Refund policy
 
     1. #### Verzoek om terugbetaling
-       * Alle verzoeken tot terugbetaling (tickets, ALTCOINS of andere aankopen) dienen uitsluitend per e-mail te worden gericht aan [support@alterlan.be](mailto:support@alterlan.be).
+       * Alle verzoeken tot terugbetaling (tickets, ALTERCOINS of andere aankopen) dienen uitsluitend per e-mail te worden gericht aan [support@alterlan.be](mailto:support@alterlan.be).
        * Het verzoek moet afkomstig zijn van het e-mailadres waarmee de oorspronkelijke aankoop is verricht.
        * Vermeld in het verzoek duidelijk het ordernummer, zoals vermeld in de bevestigingsmail.
+       * Ongebruikte ALTERCOINS kunnen na afloop van het evenement worden terugbetaald, mits een eenmalige administratieve kost van € 10.
 
     2. #### Behandeling van verzoeken
        * De Organisator streeft ernaar om terugbetalingsverzoeken binnen 14 werkdagen na ontvangst te beoordelen en af te handelen.
@@ -144,15 +144,16 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
 
     3. #### Uitzonderingen
        * Terugbetalingen worden uitsluitend verleend indien het verzoek tijdig is ingediend én binnen de toepasselijke voorwaarden valt (bijv. annuleringsbepalingen, overmacht).
-       * Bij no-show van Deelnemer of Bezoeker bestaat geen recht op restitutie.
+       * Er bestaat geen recht op restitutie indien de Deelnemer of Bezoeker niet aanwezig is op het evenement.
+       * Indien de waarde van de resterende ALTERCOINS lager is dan € 10, vervalt de mogelijkheid tot terugbetaling.
 
     4. #### Eigen betaalmiddelen
-       * Conform de geldende Belgische regelgeving (zie mogelijke “guidelines”) worden ALTCOINS verwerkt volgens de wettelijke vereisten.
-       * Restitutie van ongebruikte ALTCOINS is alleen mogelijk indien dit vooraf schriftelijk is overeengekomen of door de Organisator uitdrukkelijk wordt gecommuniceerd.
+       * Conform de geldende Belgische regelgeving (zie mogelijke “guidelines”) worden ALTERCOINS verwerkt volgens de wettelijke vereisten.
+       * Restitutie van ongebruikte ALTERCOINS is alleen mogelijk indien dit vooraf schriftelijk is overeengekomen of door de Organisator uitdrukkelijk wordt gecommuniceerd.
 
 11. ### Algemene voorwaarden moederorganisatie
 
-    De algemene voorwaarden van ALTERNATE België BV zijn van toepassing op alle transacties en activiteiten. U kunt de volledige tekst van deze voorwaarden raadplegen via de volgende link: [https://www.alternate.be/Info/ALTERNATE/Algemene-voorwaarden](https://www.alternate.be/Info/ALTERNATE/Algemene-voorwaarden).
+    De algemene voorwaarden van ALTERNATE België BV zijn van toepassing op alle transacties en activiteiten. De volledige tekst van deze voorwaarden kan worden geraadpleegd via de volgende link: [https://www.alternate.be/Info/ALTERNATE/Algemene-voorwaarden](https://www.alternate.be/Info/ALTERNATE/Algemene-voorwaarden).
 
 12. ### Verantwoord gebruik van het netwerk
 
@@ -213,18 +214,7 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
     2. #### Handel
        Commerciële activiteiten, waaronder de (door)verkoop van goederen of diensten, zijn verboden zonder voorafgaande, schriftelijke toestemming van de Organisator.
 
-18. ### Privacy en gegevensbescherming
-
-    1. #### Verwerking van persoonsgegevens
-       De Organisator verwerkt persoonsgegevens van Deelnemers en Bezoekers in overeenstemming met de toepasselijke (privacy)wetgeving en zijn eigen privacybeleid.
-
-    2. #### Gebruik beeldmateriaal
-       Door deelname aan of bezoek van het evenement verleent men de Organisator toestemming om foto- en videomateriaal te maken en te gebruiken voor publicitaire en promotionele doeleinden.
-
-    3. #### Recht op inzage en correctie
-       Verzoeken tot inzage, wijziging of verwijdering van persoonsgegevens kunnen worden ingediend via [support@alterlan.be](mailto:support@alterlan.be). De Organisator streeft ernaar dergelijke verzoeken binnen de wettelijke termijnen te behandelen.
-
-19. ### Sancties bij overtredingen
+18. ### Sancties bij overtredingen
 
     1. #### Waarschuwingen en maatregelen
        Bij overtreding van deze voorwaarden of ander wangedrag kan de Organisator een waarschuwing geven, (tijdelijk) de toegang ontzeggen of andere passende maatregelen nemen.
@@ -235,26 +225,26 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
     3. #### Juridische stappen
        Bij (verdenking van) strafbare feiten, zoals het delen van auteursrechtelijk beschermd materiaal, hacking of drugsgerelateerde delicten, kan de Organisator aangifte doen bij de politie. Eventuele schade- of andere vorderingen kunnen op de overtreder worden verhaald.
 
-20. ### Deelnemers met gehuurde systemen of streaming-bandbreedte
+19. ### Deelnemers met gehuurde producten of streaming-bandbreedte
 
     1. #### Gebruik en onderhoud
-       * Deelnemers die een “rental system” of extra streaming-bandbreedte afnemen, zijn verplicht de gehuurde apparatuur en/of diensten met de nodige zorg te gebruiken en de richtlijnen van de Organisator op te volgen.
+       * Deelnemers die via de Organisator een pc of randapparatuur huren of extra streaming-bandbreedte afnemen, zijn verplicht de gehuurde apparatuur en/of diensten met de nodige zorg te gebruiken en de richtlijnen van de Organisator op te volgen.
        * Gebreken of storingen die niet aan de Deelnemer zijn toe te rekenen, moeten onverwijld aan de Organisator worden gemeld.
 
     2. #### Aansprakelijkheid en schade
        * Deelnemer is aansprakelijk voor alle schade, verlies of diefstal van de gehuurde apparatuur, wanneer dit het gevolg is van nalatigheid of opzettelijk misbruik.
-       * Reparatie- of vervangingskosten als gevolg van verkeerd of onrechtmatig gebruik, komen volledig voor rekening van de Deelnemer.
+       * Reparatie- of vervangingskosten als gevolg van verkeerd of onrechtmatig gebruik, zijn volledig voor rekening van de Deelnemer.
 
     3. #### Beschikbaarheid en kwaliteit van streaming-bandbreedte
        * De Organisator spant zich in om de beschikbaarheid en kwaliteit van de internetverbinding te waarborgen, doch kan geen absolute garanties geven, onder meer door mogelijke piekbelasting of externe storingen.
        * De Deelnemer aanvaardt dat er datalimieten of snelheidsbeperkingen kunnen gelden.
 
     4. #### Ongeoorloofd of illegaal gebruik
-       * Gebruik van de gehuurde systemen of extra streaming-bandbreedte voor de verspreiding van illegaal, aanstootgevend of schadelijk materiaal is ten strengste verboden.
+       * Gebruik van de gehuurde systemen, randapparatuur of extra streaming-bandbreedte voor de verspreiding van illegaal, aanstootgevend of schadelijk materiaal is ten strengste verboden.
        * Bij overtreding van wet- en regelgeving of deze Algemene Voorwaarden, kan de Organisator de dienstverlening (tijdelijk) onderbreken en de Deelnemer van het evenement verwijderen.
 
     5. #### Retourneren en borg
-       * Gehuurde systemen dienen na afloop van het evenement in dezelfde staat te worden geretourneerd.
+       * Gehuurde systemen of randapparatuur dienen na afloop van het evenement in oorspronkelijke staat te worden geretourneerd.
        * Indien van toepassing kan de Organisator een borgsom hanteren; deze wordt (gedeeltelijk) ingehouden bij onvolledige of beschadigde retournering.
 
     6. #### Opzegging en annulering
@@ -262,7 +252,7 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
        * Bij voortijdige opzegging door de Deelnemer zelf bestaat geen recht op (volledige) restitutie van de huurkosten.
 
     7. #### Onderhoud en support
-       * De Organisator kan beperkte technische ondersteuning bieden, doch de Deelnemer blijft zelf verantwoordelijk voor het installeren van updates, beveiligingssoftware en overige noodzakelijke maatregelen.
+       * De Organisator kan beperkte technische ondersteuning bieden, doch de Deelnemer blijft zelf verantwoordelijk voor het installeren van updates, beveiligingssoftware en overige noodzakelijke software-aanpassingen.
        * De Organisator is niet verplicht uitgebreide reparaties of onderhoud ter plaatse te verrichten.
 
     8. #### Verzekering en ontheffing
@@ -278,9 +268,9 @@ _Geldig voor het evenement georganiseerd door ALTERNATE België BV (BE0893031290
        * Verlenging van de huurtermijn is uitsluitend mogelijk na voorafgaande en uitdrukkelijke toestemming van de Organisator.
 
 ### Vragen?
-Voor vragen over deze voorwaarden of het evenement kunt u contact opnemen via [support@alterlan.be](mailto:support@alterlan.be).
+Voor vragen over deze voorwaarden of het evenement kan contact worden opgenomen via [support@alterlan.be](mailto:support@alterlan.be).
 
 ### Slotbepaling
 * Deze voorwaarden zijn opgesteld en worden beheerst door het Belgisch recht.
 * Eventuele geschillen met betrekking tot deze voorwaarden vallen onder de uitsluitende bevoegdheid van de bevoegde rechtbank te Antwerpen.
-* Door deel te nemen aan of aanwezig te zijn op ALTERLAN verklaart u kennis te hebben genomen van en akkoord te gaan met deze Algemene Voorwaarden.
+* Door deel te nemen aan of aanwezig te zijn op ALTERLAN verklaar je kennis te hebben genomen van en akkoord te gaan met deze Algemene Voorwaarden.
