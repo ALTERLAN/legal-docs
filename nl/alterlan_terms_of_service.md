@@ -23,13 +23,13 @@ _Deze voorwaarden zijn geldig voor het evenement ALTERLAN, gehouden in De Loods 
 2. ### Toegang en deelname
 
     1. #### Exclusieve toegang
-       Uitsluitend geregistreerde Deelnemers verkrijgen toegang tot de LAN-ruimte.
+       Uitsluitend geregistreerde Deelnemers en Bezoekers verkrijgen toegang tot de Locatie.
 
     2. #### Registratie en legitimatie
        Deelnemers dienen bij aankomst hun geldig toegangsbewijs en een geldig identiteitsdocument voor te kunnen leggen.
 
     3. #### Toegang voor Bezoekers
-       Bezoekers mogen de LAN-ruimte enkel betreden op de door de Organisator vooraf bepaalde tijdstippen en uitsluitend met toestemming van de Organisator.
+       Bezoekers mogen de Locatie enkel betreden op de door de Organisator vooraf bepaalde tijdstippen en uitsluitend met toestemming van de Organisator.
 
     4. #### Leeftijdsgrens
        De minimumleeftijd voor deelname bedraagt 16 jaar. Personen jonger dan 16 jaar dienen een schriftelijke en ondertekende toestemming van ouder(s) of voogd voor te leggen.
@@ -38,6 +38,12 @@ _Deze voorwaarden zijn geldig voor het evenement ALTERLAN, gehouden in De Loods 
        * Deelnemers ontvangen bij aanvang van het evenement een persoonlijke badge.
        * Deze badge dient gedurende het gehele evenement zichtbaar te worden gedragen, zodat de Organisator en het personeel kunnen verifiëren of de betrokkene rechtmatig toegang heeft.
        * Het niet kunnen tonen van een geldige badge kan leiden tot weigering van de toegang of verwijdering van het evenement zonder recht op restitutie.
+
+    6. #### Zitplaatsindeling
+       * Deelnemers dienen zich te verhouden aan de zitplaatsregels van de Locatie.
+       * De Organisator is niet aansprakelijk voor schade of schadevergoeding voortvloeiend uit misbruik van de zitplaatsregels.
+       * De indeling van de zitplaatsen kan worden gewijzigd door de Organisator zonder inspraak van de Deelnemer en zonder recht op restitutie.
+       * Deelnemers kunnen de zitplaats veranderen door contact op te nemen met de Organisator.
 
 3. ### Gedragsregels
 
