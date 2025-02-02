@@ -26,7 +26,7 @@ _Deze voorwaarden zijn geldig voor het evenement ALTERLAN, gehouden in De Loods 
        Uitsluitend geregistreerde Deelnemers en Bezoekers verkrijgen toegang tot de Locatie.
 
     2. #### Registratie en legitimatie
-       Deelnemers dienen bij aankomst hun geldig toegangsbewijs en een geldig identiteitsdocument voor te kunnen leggen.
+       Deelnemers dienen bij aankomst hun geldig toegangsbewijs en een geldig identiteitsdocument voor te kunnen leggen. 1 ticket per Deelnemer.
 
     3. #### Toegang voor Bezoekers
        Bezoekers mogen de Locatie enkel betreden op de door de Organisator vooraf bepaalde tijdstippen en uitsluitend met toestemming van de Organisator.
@@ -37,13 +37,18 @@ _Deze voorwaarden zijn geldig voor het evenement ALTERLAN, gehouden in De Loods 
     5. #### Badgegebruik
        * Deelnemers ontvangen bij aanvang van het evenement een persoonlijke badge.
        * Deze badge dient gedurende het gehele evenement zichtbaar te worden gedragen, zodat de Organisator en het personeel kunnen verifiëren of de betrokkene rechtmatig toegang heeft.
+       * Enkel de geleverde badge dient als officieel toegangsbewijs. Fotokopieen zijn niet toegestaan.
        * Het niet kunnen tonen van een geldige badge kan leiden tot weigering van de toegang of verwijdering van het evenement zonder recht op restitutie.
+       * Bij verlies of beschadiging van de Badge, dient de Deelnemer zich meteen te melden aan de Organisator.
 
-    6. #### Zitplaatsindeling
-       * Deelnemers dienen zich te verhouden aan de zitplaatsregels van de Locatie.
-       * De Organisator is niet aansprakelijk voor schade of schadevergoeding voortvloeiend uit misbruik van de zitplaatsregels.
-       * De indeling van de zitplaatsen kan worden gewijzigd door de Organisator zonder inspraak van de Deelnemer en zonder recht op restitutie.
-       * Deelnemers kunnen de zitplaats veranderen door contact op te nemen met de Organisator.
+    6. #### Zitplaatsindeling & reglement
+       * Deelnemers dienen de zitplaatsregels van de Locatie te respecteren.  
+       * De Organisator is niet aansprakelijk voor schade of enige vergoeding als gevolg van het niet naleven van deze regels.  
+       * De Organisator kan de zitplaatsindeling wijzigen zonder inspraak van de Deelnemer en zonder recht op restitutie.  
+       * Deelnemers kunnen hun zitplaats wijzigen door contact op te nemen met de Organisator.  
+       * Er mogen maximaal 2 monitoren per Deelnemer worden gebruikt en de tafelruimte mag niet worden overschreden.  
+       * Het gebruik van extra stekkerblokken is niet toegestaan; de Organisator voorziet per Deelnemer 3 stopcontacten.  
+       * De Organisator garandeert een minimale tafelbreedte van 110 cm per Deelnemer.  
 
 3. ### Gedragsregels
 
@@ -51,7 +56,7 @@ _Deze voorwaarden zijn geldig voor het evenement ALTERLAN, gehouden in De Loods 
        Deelnemers en Bezoekers dienen respectvol om te gaan met medepersonen en met de ter beschikking gestelde materialen en faciliteiten.
 
     2. #### Verbod op ongeoorloofde inhoud
-       Het is strikt verboden om illegale, discriminerende of aanstootgevende inhoud te delen, vertonen of verspreiden.
+       Het is strikt verboden om illegale, discriminerende, pornografische of aanstootgevende inhoud te delen, vertonen of verspreiden.
 
     3. #### Verbod op drugs en wapens
        Het bezit, gebruik of verhandelen van drugs en het meebrengen of in bezit hebben van wapens is ten strengste verboden op de Locatie.
@@ -272,6 +277,15 @@ _Deze voorwaarden zijn geldig voor het evenement ALTERLAN, gehouden in De Loods 
     10. #### Duur en verlenging
        * De huurperiode loopt gelijktijdig met de duur van het evenement, tenzij schriftelijk anders overeengekomen.
        * Verlenging van de huurtermijn is uitsluitend mogelijk na voorafgaande en uitdrukkelijke toestemming van de Organisator.
+
+### 20. Merchandise  
+   
+   * De Organisator biedt merchandise aan via de officiële ALTERLAN-website.  
+   * De Organisator is niet aansprakelijk voor schade of enige vergoeding als gevolg van misbruik van de merchandise.  
+   * Gepersonaliseerde merchandise en artikelen die om hygiënische redenen niet opnieuw verkocht kunnen worden, vallen niet onder het retourrecht.  
+   * Alle tijdens het Evenement aangekochte merchandise wordt persoonlijk aan de Deelnemer overhandigd.  
+
+
 
 ### Vragen?
 Voor vragen over deze voorwaarden of het evenement kan contact worden opgenomen via [support@alterlan.be](mailto:support@alterlan.be).
