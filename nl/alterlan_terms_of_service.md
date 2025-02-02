@@ -1,6 +1,6 @@
 # ALGEMENE VOORWAARDEN – ALTERLAN
 
-Laatst bijgewerkt op maandag 2 februari 2025
+Laatst bijgewerkt op zondag 2 februari 2025
 
 _Deze voorwaarden zijn geldig voor het evenement ALTERLAN, gehouden in De Loods te Mechelen en georganiseerd door ALTERNATE België bv (BE0893031290), hierna te noemen de “Organisator”. De algemene voorwaarden van ALTERNATE België bv blijven onverminderd van toepassing. Onderhavige specifieke voorwaarden zijn aanvullend van kracht voor alle deelnemers en bezoekers van ALTERLAN. Door deelname aan of bezoek van ALTERLAN aanvaardt men uitdrukkelijk deze voorwaarden._
 
